@@ -1,0 +1,101 @@
+product_name,ingredient_list,compliance_status
+Product 1,"licorice extract, dimethicone, shea butter, aloe vera, allantoin, glycerin",1
+Product 2,"glycerin, chamomile extract, aqua, allantoin, methanol",0
+Product 3,"niacinamide, panthenol, shea butter",1
+Product 4,"aqua, tocopherol, butylene glycol, aloe vera, allantoin, panthenol",1
+Product 5,"hyaluronic acid, allantoin, licorice extract, panthenol, aloe vera",1
+Product 6,"aqua, glycerin, chamomile extract, niacinamide, jojoba oil, triclosan",0
+Product 7,"aloe vera, licorice extract, hyaluronic acid, glycerin, butylene glycol",1
+Product 8,"hyaluronic acid, niacinamide, chamomile extract",1
+Product 9,"licorice extract, dimethicone, butylene glycol, hyaluronic acid, methanol",0
+Product 10,"panthenol, niacinamide, butylene glycol, aloe vera, dimethicone, hyaluronic acid",1
+Product 11,"niacinamide, licorice extract, allantoin, formaldehyde",0
+Product 12,"panthenol, jojoba oil, hyaluronic acid, shea butter, glycerin, aqua",1
+Product 13,"niacinamide, allantoin, panthenol, parabens",0
+Product 14,"niacinamide, jojoba oil, chamomile extract, licorice extract",1
+Product 15,"chamomile extract, tocopherol, panthenol, dimethicone",1
+Product 16,"chamomile extract, tocopherol, aqua, shea butter, licorice extract, hyaluronic acid",1
+Product 17,"licorice extract, aloe vera, jojoba oil",1
+Product 18,"shea butter, butylene glycol, jojoba oil, triclosan",0
+Product 19,"niacinamide, shea butter, jojoba oil, hyaluronic acid, methanol",0
+Product 20,"tocopherol, chamomile extract, aloe vera, aqua, shea butter",1
+Product 21,"allantoin, glycerin, panthenol, hyaluronic acid, niacinamide, licorice extract",1
+Product 22,"shea butter, glycerin, tocopherol, panthenol, triclosan",0
+Product 23,"jojoba oil, tocopherol, panthenol, chamomile extract, licorice extract, allantoin",1
+Product 24,"jojoba oil, licorice extract, dimethicone, hyaluronic acid",1
+Product 25,"aqua, chamomile extract, tocopherol, niacinamide, allantoin",1
+Product 26,"allantoin, hyaluronic acid, licorice extract, butylene glycol, aqua, niacinamide",1
+Product 27,"allantoin, tocopherol, licorice extract, phthalates",0
+Product 28,"panthenol, glycerin, licorice extract, hyaluronic acid",1
+Product 29,"glycerin, shea butter, aloe vera, hyaluronic acid",1
+Product 30,"butylene glycol, hyaluronic acid, glycerin, triclosan",0
+Product 31,"allantoin, glycerin, hyaluronic acid, panthenol, methanol",0
+Product 32,"allantoin, tocopherol, jojoba oil, hyaluronic acid, butylene glycol, aloe vera",1
+Product 33,"shea butter, licorice extract, dimethicone, chamomile extract, tocopherol, glycerin",1
+Product 34,"shea butter, niacinamide, licorice extract",1
+Product 35,"tocopherol, jojoba oil, hyaluronic acid, glycerin, butylene glycol, panthenol",1
+Product 36,"dimethicone, aloe vera, panthenol, licorice extract, aqua, tocopherol",1
+Product 37,"allantoin, butylene glycol, tocopherol, aloe vera, hyaluronic acid, chamomile extract",1
+Product 38,"butylene glycol, allantoin, chamomile extract, glycerin",1
+Product 39,"tocopherol, chamomile extract, aloe vera, shea butter, allantoin",1
+Product 40,"shea butter, dimethicone, aloe vera, licorice extract, glycerin, hyaluronic acid, formaldehyde",0
+Product 41,"chamomile extract, jojoba oil, tocopherol, aqua",1
+Product 42,"aloe vera, chamomile extract, hyaluronic acid, tocopherol, parabens",0
+Product 43,"shea butter, hyaluronic acid, dimethicone",1
+Product 44,"tocopherol, butylene glycol, shea butter, niacinamide, aqua, glycerin, parabens",0
+Product 45,"chamomile extract, niacinamide, allantoin, shea butter, parabens",0
+Product 46,"panthenol, aloe vera, niacinamide, butylene glycol, shea butter, jojoba oil, triclosan",0
+Product 47,"jojoba oil, niacinamide, shea butter, parabens",0
+Product 48,"chamomile extract, tocopherol, jojoba oil, aqua, allantoin, formaldehyde",0
+Product 49,"shea butter, licorice extract, panthenol, jojoba oil, tocopherol",1
+Product 50,"hyaluronic acid, tocopherol, niacinamide, allantoin, licorice extract, triclosan",0
+Product 51,"jojoba oil, butylene glycol, tocopherol, aloe vera, dimethicone",1
+Product 52,"shea butter, aqua, chamomile extract",1
+Product 53,"dimethicone, panthenol, glycerin, allantoin, aloe vera",1
+Product 54,"aloe vera, hyaluronic acid, panthenol, jojoba oil, allantoin",1
+Product 55,"glycerin, aqua, dimethicone, chamomile extract",1
+Product 56,"panthenol, shea butter, butylene glycol, niacinamide",1
+Product 57,"butylene glycol, jojoba oil, aqua, licorice extract, shea butter, allantoin",1
+Product 58,"aqua, jojoba oil, licorice extract, glycerin",1
+Product 59,"jojoba oil, aloe vera, butylene glycol, licorice extract, niacinamide, glycerin, parabens",0
+Product 60,"allantoin, tocopherol, panthenol, licorice extract, aloe vera",1
+Product 61,"jojoba oil, shea butter, butylene glycol, allantoin, hyaluronic acid, panthenol, parabens",0
+Product 62,"aqua, allantoin, aloe vera, niacinamide, chamomile extract, butylene glycol",1
+Product 63,"licorice extract, chamomile extract, dimethicone",1
+Product 64,"tocopherol, jojoba oil, shea butter, licorice extract, butylene glycol, aloe vera",1
+Product 65,"niacinamide, panthenol, jojoba oil, butylene glycol, aloe vera",1
+Product 66,"butylene glycol, jojoba oil, glycerin, niacinamide, chamomile extract, dimethicone",1
+Product 67,"licorice extract, butylene glycol, jojoba oil, allantoin, parabens",0
+Product 68,"hyaluronic acid, licorice extract, panthenol, aqua, methanol",0
+Product 69,"allantoin, licorice extract, glycerin, dimethicone",1
+Product 70,"tocopherol, shea butter, hyaluronic acid, dimethicone, chamomile extract",1
+Product 71,"aqua, glycerin, jojoba oil",1
+Product 72,"aloe vera, glycerin, dimethicone, aqua, panthenol",1
+Product 73,"allantoin, panthenol, licorice extract",1
+Product 74,"chamomile extract, dimethicone, tocopherol, panthenol, jojoba oil, triclosan",0
+Product 75,"licorice extract, tocopherol, chamomile extract, shea butter, dimethicone, niacinamide",1
+Product 76,"shea butter, hyaluronic acid, chamomile extract",1
+Product 77,"hyaluronic acid, niacinamide, aqua, aloe vera, shea butter",1
+Product 78,"allantoin, aloe vera, aqua, glycerin, panthenol, shea butter, formaldehyde",0
+Product 79,"aqua, niacinamide, licorice extract, aloe vera, jojoba oil",1
+Product 80,"niacinamide, shea butter, jojoba oil, dimethicone, licorice extract, methanol",0
+Product 81,"dimethicone, chamomile extract, butylene glycol, aloe vera, shea butter",1
+Product 82,"licorice extract, jojoba oil, aloe vera",1
+Product 83,"glycerin, hyaluronic acid, shea butter, butylene glycol, allantoin, niacinamide",1
+Product 84,"jojoba oil, allantoin, tocopherol, aloe vera, hyaluronic acid, shea butter, phthalates",0
+Product 85,"niacinamide, panthenol, aloe vera, chamomile extract",1
+Product 86,"aqua, jojoba oil, chamomile extract, triclosan",0
+Product 87,"jojoba oil, glycerin, aloe vera, triclosan",0
+Product 88,"glycerin, niacinamide, allantoin, formaldehyde",0
+Product 89,"chamomile extract, aqua, niacinamide, glycerin, licorice extract, dimethicone",1
+Product 90,"jojoba oil, chamomile extract, glycerin, dimethicone, formaldehyde",0
+Product 91,"butylene glycol, allantoin, hyaluronic acid, phthalates",0
+Product 92,"jojoba oil, dimethicone, allantoin",1
+Product 93,"tocopherol, chamomile extract, niacinamide, jojoba oil, hyaluronic acid, glycerin",1
+Product 94,"niacinamide, aloe vera, panthenol, hyaluronic acid, licorice extract, aqua",1
+Product 95,"jojoba oil, shea butter, panthenol, dimethicone, tocopherol",1
+Product 96,"glycerin, niacinamide, butylene glycol, aloe vera",1
+Product 97,"allantoin, glycerin, licorice extract, methanol",0
+Product 98,"glycerin, niacinamide, dimethicone",1
+Product 99,"niacinamide, chamomile extract, shea butter, panthenol, allantoin, glycerin, methanol",0
+Product 100,"jojoba oil, allantoin, hyaluronic acid, dimethicone, glycerin",1
